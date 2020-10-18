@@ -23,4 +23,9 @@ Due to academic dishonesty from 9th grader's reading and math scores at Thomas H
 - Math and reading scores by grade
   - These scores all dropped due to the fact that they were values replaced by Nan.
 - Scores by school spending:
-  - 
+  - As seen below the since Thomas High School was a medium size school all the scores decreased by at least .01%. The biggest decrease were the Overall.
+  - original below:
+  - ![line_image](Resources/size_org.png)
+  -Modified below:
+  - ![line_image](Resources/size_mod.png)
+ 
