@@ -36,4 +36,5 @@ Due to academic dishonesty from 9th grader's reading and math scores at Thomas H
   - ![line_image](Resources/type_org.png)
   - ![line_image](Resources/type_mod.png)
   
-  
+## Summary
+Overall all the scores decreased. Every bin that Thomas High School was in decreased, but it didn't decrease by a major number. But if we want to see the changes in math, reading scores, scores by school size, scores by school spending and scores by type, then we need to not format it to really see the difference. 
