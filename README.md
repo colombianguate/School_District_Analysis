@@ -6,4 +6,10 @@ Due to academic dishonesty from 9th grader's reading and math scores at Thomas H
 
 ## Results
 
-### 
+### How is the district summary affected?
+- Below is the original summary
+  - ![line_image](Resources/original_district.png)
+- Below is the modified summary
+  - ![line_image](Resources/challenge_district.png)
+  
+- The overall 
