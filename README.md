@@ -32,6 +32,8 @@ Due to academic dishonesty from 9th grader's reading and math scores at Thomas H
   - Without formatting the scores by 1 decimal place, then we can see that difference in scores, it is minimal difference. It is about a .01% difference.
 - Scores by type :
   - As mentioned before, without the formatting then we can see the difference in scores. In this case since Thomas High School was of type "Charter" then that is where the difference.
-  
+  - Below are the pictures for types, original followed by modified pictures
+  - ![line_image](Resources/type_org.png)
+  - ![line_image](Resources/type_mod.png)
   
   
