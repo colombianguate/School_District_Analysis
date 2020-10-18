@@ -18,3 +18,9 @@ Due to academic dishonesty from 9th grader's reading and math scores at Thomas H
 - As seen in the below pictures first the original summary and second the modified summary all the scores were decreased by about less then .1% , one suprise was the average reading score increased. 
 - ![line_iamage](Resources/original_school.png)
 - ![line_image](Resources/modified_school.png)
+
+### How does replacing the ninth-grade scores affect the following?
+- Math and reading scores by grade
+  - These scores all dropped due to the fact that they were values replaced by Nan.
+- Scores by school spending:
+  - 
