@@ -22,10 +22,16 @@ Due to academic dishonesty from 9th grader's reading and math scores at Thomas H
 ### How does replacing the ninth-grade scores affect the following?
 - Math and reading scores by grade
   - These scores all dropped due to the fact that they were values replaced by Nan.
-- Scores by school spending:
+- Scores by school size:
   - As seen below the since Thomas High School was a medium size school all the scores decreased by at least .01%. The biggest decrease were the Overall.
   - original below:
   - ![line_image](Resources/size_org.png)
   -Modified below:
   - ![line_image](Resources/size_mod.png)
- 
+- Scores by school spending:
+  - Without formatting the scores by 1 decimal place, then we can see that difference in scores, it is minimal difference. It is about a .01% difference.
+- Scores by type :
+  - As mentioned before, without the formatting then we can see the difference in scores. In this case since Thomas High School was of type "Charter" then that is where the difference.
+  
+  
+  
