@@ -12,4 +12,4 @@ Due to academic dishonesty from 9th grader's reading and math scores at Thomas H
 - Below is the modified summary
   - ![line_image](Resources/challenge_district.png)
   
-- The overall 
+- The district summary was only minorly affected, the average math score, % passing math and reading decreased, and %overall passing decreased by only .1%.
